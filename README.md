@@ -19,4 +19,4 @@ This project frames IMBH discovery in globular clusters as an unsupervised anoma
 ## How to run
 ```bash
 pip install -r requirements.txt
-jupyter notebook imbh_detection.ipynb
+jupyter notebook imbh-ok.ipynb
